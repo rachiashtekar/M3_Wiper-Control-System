@@ -1,5 +1,5 @@
-WIPER CONTROL SYSTEM 
-Abstract
+## WIPER CONTROL SYSTEM 
+# Abstract
 In automobiles, particularly cars, autos and heavy vehicles, there are wipers.
 Wipers are used to clean the windshield of the cars
 to operate these wipers, motors are used. these motors are designed to operate in 90 degrees or 150 degrees, depending on the use.
